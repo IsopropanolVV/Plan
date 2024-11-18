@@ -1,6 +1,8 @@
-# Trainingsplan
+# Trainingsplan für die Woche
 
+Willkommen zu deinem personalisierten Trainingsplan! Dieser Plan kombiniert Kraft- und Ausdauertraining, um deine Fitnessziele effektiv zu erreichen. Viel Erfolg und Spaß beim Training! 💪
 
+---
 
 ## Inhaltsverzeichnis
 
@@ -16,8 +18,6 @@
 ---
 
 ## Montag: Spinning
-
-![Spinning](https://example.com/spinning.gif)
 
 - **45–60 Minuten Intervalltraining:**
   - **Aufwärmen:** 5 Minuten lockeres Fahren
@@ -39,23 +39,18 @@
 ### Haupttraining
 
 - **Brust:** Bankdrücken  
-  ![Bankdrücken](https://example.com/bankdruecken.gif)  
   *4 Sätze, 8–12 Wiederholungen*
 
 - **Rücken:** Klimmzüge oder Latzug  
-  ![Klimmzüge](https://example.com/klimmzuege.gif)  
   *4 Sätze, 8–12 Wiederholungen*
 
 - **Schultern:** Schulterdrücken  
-  ![Schulterdrücken](https://example.com/schulterdruecken.gif)  
   *3 Sätze, 10–12 Wiederholungen*
 
 - **Bizeps:** Langhantel-Curls  
-  ![Langhantel-Curls](https://example.com/langhantel-curls.gif)  
   *3 Sätze, 10–12 Wiederholungen*
 
 - **Trizeps:** Dips oder Trizepsstrecken  
-  ![Dips](https://example.com/dips.gif)  
   *3 Sätze, 10–12 Wiederholungen*
 
 - **Zusätzlich:**
@@ -72,8 +67,6 @@
 ---
 
 ## Mittwoch: Joggen
-
-![Joggen](https://example.com/joggen.gif)
 
 - **10 km Dauerlauf:**
   - Moderates Tempo
@@ -96,15 +89,12 @@
 
 - **Beinmuskulatur:**
   - **Kniebeugen**  
-    ![Kniebeugen](https://example.com/kniebeugen.gif)  
     *4 Sätze, 8–12 Wiederholungen*
 
   - **Beinpresse**  
-    ![Beinpresse](https://example.com/beinpresse.gif)  
     *4 Sätze, 10–12 Wiederholungen*
 
   - **Rumänisches Kreuzheben**  
-    ![Rumänisches Kreuzheben](https://example.com/kreuzheben.gif)  
     *3 Sätze, 8–12 Wiederholungen*
 
 - **Waden:**
@@ -138,24 +128,19 @@
 ### Haupttraining
 
 - **Brust:** Schrägbankdrücken  
-  ![Schrägbankdrücken](https://example.com/schraegbankdruecken.gif)  
   *4 Sätze, 8–12 Wiederholungen*
 
 - **Rücken:** Ruderzug oder Langhantelrudern  
-  ![Ruderzug](https://example.com/ruderzug.gif)  
   *4 Sätze, 8–12 Wiederholungen*
 
 - **Schultern:** Seitheben  
-  ![Seitheben](https://example.com/seitheben.gif)  
   *3 Sätze, 12–15 Wiederholungen*
 
 - **Arme:**
   - **Bizeps-Hammer-Curls**  
-    ![Hammer-Curls](https://example.com/hammer-curls.gif)  
     *3 Sätze, 10–12 Wiederholungen*
 
   - **Trizeps-Kickbacks oder Überkopf-Trizepsdrücken**  
-    ![Trizeps-Kickbacks](https://example.com/trizeps-kickbacks.gif)  
     *3 Sätze, 10–12 Wiederholungen*
 
 - **Zusätzlich:**
@@ -174,8 +159,6 @@
 
 ## Samstag: Spinning
 
-![Spinning](https://example.com/spinning2.gif)
-
 - **45 Minuten konstantes Tempo:**
   - Fokus auf Regeneration und Durchblutung
   - **Aufwärmen:** 5 Minuten lockeres Fahren
@@ -185,8 +168,6 @@
 ---
 
 ## Sonntag: Joggen
-
-![Joggen](https://example.com/joggen2.gif)
 
 - **8–10 km lockerer Dauerlauf:**
   - Leichtes Tempo
